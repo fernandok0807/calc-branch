@@ -6,6 +6,8 @@ public interface UserInterface {
      * 
      * @return All developer's personal information (full name, carnet)
      */
+    
+    
     public String toString();
     
 }
